@@ -1,10 +1,10 @@
 # Bioinformática
 ### Constituição do Grupo 
 
-Francisca Pereira | PG53815
-Rúben Ganança   | PG54203
-Sara Fernandes   | PG54226
-Sofia Fernandes  | PG54242
+Francisca Pereira  PG53815 |
+Rúben Ganança  PG54203 |
+Sara Fernandes  PG54226 |
+Sofia Fernandes  PG54242 |
 
 ### Análise da Literatura 
 
